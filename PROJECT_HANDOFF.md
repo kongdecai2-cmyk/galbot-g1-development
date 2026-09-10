@@ -51,7 +51,14 @@ Expected desktop handoff layout:
 
 The training examples are preserved as supplied reference material. They are not approved to run in numeric order and are not a substitute for the safety rules in this document.
 
-The collaboration target confirmed by the user is a private GitHub repository named `kongdecai2-cmyk/galbot-g1-development`. Before claiming publication, verify the remote URL, branch, commit, repository visibility and uploaded file list. A local commit alone is not proof that collaborators can clone the repository.
+Verified GitHub collaboration state on 2026-09-10:
+
+- Private repository: `https://github.com/kongdecai2-cmyk/galbot-g1-development`
+- Default and tracked branch: `main`
+- The initial remote tree contained all 19 intended project files, and the remote commit matched the local commit at verification time.
+- No team collaborators had been invited at this stage.
+
+Future handoffs must still verify the remote URL, branch, commit, repository visibility and uploaded file list. A local commit alone is not proof that collaborators can clone the repository.
 
 Never include passwords, SSH private keys, authorization tokens, device serial numbers, or default vendor credentials in the handoff.
 

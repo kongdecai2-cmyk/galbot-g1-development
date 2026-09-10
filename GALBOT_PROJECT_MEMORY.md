@@ -16,6 +16,8 @@ SDK 1.8.1 的结构化知识库见 `GALBOT_SDK_1_8_1_REFERENCE.md`。后续涉�
 
 GitHub 仓库用于传递结构化项目上下文，不能复制完整对话状态或替代真机实时核验。新的协作者或 GPT 仍必须按 `README.md`、`PROJECT_HANDOFF.md`、`AGENTS.md` 和本文件的顺序完成项目接管。
 
+2026-09-10：已创建并首次推送私有仓库 `https://github.com/kongdecai2-cmyk/galbot-g1-development`。GitHub 端核验结果为：仓库归属与名称正确、可见性为 `PRIVATE`、默认分支为 `main`、远程提交与本地提交一致、远程文件树包含计划内的 19 个文件。首次上传阶段未邀请团队成员。该结果只证明当时 GitHub 上传状态，不代表未来分支、权限或文件内容不会变化，后续交接仍需重新核实。
+
 使用原则：
 
 - 将“已核实事实”“合理推测”和“建议”分开。
