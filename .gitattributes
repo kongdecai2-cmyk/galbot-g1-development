@@ -1,0 +1,7 @@
+# Preserve exact bytes so SHA256SUMS.txt remains valid after cloning.
+.gitattributes -text
+.gitignore -text
+*.md -text
+*.py -text
+*.txt -text
+*.pdf binary
